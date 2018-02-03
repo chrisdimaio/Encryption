@@ -1,0 +1,8 @@
+.vc/
+last_working_version/
+old/
+versions/
+
+*.jar
+*.exe
+*.cfg

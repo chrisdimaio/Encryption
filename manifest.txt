@@ -1,0 +1,2 @@
+Main-Class: com.Encryption
+Class-Path: ./libs/commons-codec-1.8.jar ./libs/json.jar
